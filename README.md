@@ -16,5 +16,5 @@ A script to prevent people from abusing jumping
 # Framework
 Valid for ESX and QBcore
 
-# Instalar y configurar
+# Install and configure
 You download the file, drag it to your scripts or resources folder, open **config.lua**, choose your framework and **DONE**!!
